@@ -1,3 +1,8 @@
 haha
 resume
+<<<<<<< HEAD
 this is master
+=======
+ss
+>>>>>>> featurel
+and
